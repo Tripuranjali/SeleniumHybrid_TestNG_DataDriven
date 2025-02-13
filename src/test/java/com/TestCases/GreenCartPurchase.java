@@ -30,6 +30,7 @@ public class GreenCartPurchase extends BaseTest {
 		gc.checkoutCartverification(veggies);		
 		gc.TermsandConditionsagreement(country);
 		ExtentLogger.logScreenshot("End Page Verification");
+		System.out.println("Checking");
 		
 		
 	}
