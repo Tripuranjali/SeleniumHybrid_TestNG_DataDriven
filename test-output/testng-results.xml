@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-12T11:33:19 IST" name="Suite" finished-at="2025-02-12T11:33:59 IST" duration-ms="40347">
+    <groups>
+    </groups>
+    <test started-at="2025-02-12T11:33:19 IST" name="Test" finished-at="2025-02-12T11:33:59 IST" duration-ms="40347">
+      <class name="com.TestCases.GreenCartPurchase">
+        <test-method is-config="true" signature="launchApplication(java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:20 IST" name="launchApplication" finished-at="2025-02-12T11:33:26 IST" duration-ms="6137" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="purchaseOrder(java.util.List,java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:26 IST" name="purchaseOrder" data-provider="Greenkartdata" finished-at="2025-02-12T11:33:32 IST" duration-ms="5096" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Cucumber, Beetroot, Carrot, Brinjal, Tomato]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:32 IST" name="tearDown" finished-at="2025-02-12T11:33:32 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication(java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:32 IST" name="launchApplication" finished-at="2025-02-12T11:33:34 IST" duration-ms="1380" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="purchaseOrder(java.util.List,java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:34 IST" name="purchaseOrder" data-provider="Greenkartdata" finished-at="2025-02-12T11:33:38 IST" duration-ms="3833" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Cucumber, Beetroot, Carrot, Brinjal, Tomato]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Albania]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:38 IST" name="tearDown" finished-at="2025-02-12T11:33:38 IST" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication(java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:38 IST" name="launchApplication" finished-at="2025-02-12T11:33:39 IST" duration-ms="1042" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="purchaseOrder(java.util.List,java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:39 IST" name="purchaseOrder" data-provider="Greenkartdata" finished-at="2025-02-12T11:33:43 IST" duration-ms="3758" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Cucumber, Beetroot, Carrot, Brinjal, Tomato]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Australia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:43 IST" name="tearDown" finished-at="2025-02-12T11:33:43 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication(java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:43 IST" name="launchApplication" finished-at="2025-02-12T11:33:44 IST" duration-ms="974" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="purchaseOrder(java.util.List,java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:44 IST" name="purchaseOrder" data-provider="Greenkartdata" finished-at="2025-02-12T11:33:48 IST" duration-ms="3746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Cucumber, Beetroot, Carrot, Brinjal, Tomato]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Canada]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:48 IST" name="tearDown" finished-at="2025-02-12T11:33:49 IST" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication(java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:49 IST" name="launchApplication" finished-at="2025-02-12T11:33:50 IST" duration-ms="1003" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="purchaseOrder(java.util.List,java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:50 IST" name="purchaseOrder" data-provider="Greenkartdata" finished-at="2025-02-12T11:33:53 IST" duration-ms="3798" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Cucumber, Beetroot, Carrot, Brinjal, Tomato]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Finland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:53 IST" name="tearDown" finished-at="2025-02-12T11:33:54 IST" duration-ms="543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="launchApplication(java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:54 IST" name="launchApplication" finished-at="2025-02-12T11:33:55 IST" duration-ms="1040" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="purchaseOrder(java.util.List,java.lang.String)[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:55 IST" name="purchaseOrder" data-provider="Greenkartdata" finished-at="2025-02-12T11:33:59 IST" duration-ms="3792" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Cucumber, Beetroot, Carrot, Brinjal, Tomato]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Afghanistan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.GreenCartPurchase@1a5b6f42]" started-at="2025-02-12T11:33:59 IST" name="tearDown" finished-at="2025-02-12T11:33:59 IST" duration-ms="516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.GreenCartPurchase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
